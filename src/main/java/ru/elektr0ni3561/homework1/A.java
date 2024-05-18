@@ -1,4 +1,4 @@
-package ru.elektr0ni3561.task1;
+package ru.elektr0ni3561.homework1;
 
 public class A {
 

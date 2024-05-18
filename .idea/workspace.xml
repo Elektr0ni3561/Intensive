@@ -5,22 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Task 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task1/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task1/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task2/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task2/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task2/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task2/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task2/car/FuelType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/task2/car/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +26,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Elektr0ni3561&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="11b86715-8a2a-4b9a-92cb-1fad4375e5b6" />
+        <option name="url" value="https://github.com/Elektr0ni3561/Intensive.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -55,6 +62,7 @@
   "keyToString": {
     "Gradle.intensive [:Main.main()].executor": "Run",
     "Gradle.intensive [:Main1.main()].executor": "Run",
+    "Gradle.intensive [:Main2.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -63,7 +71,7 @@
     "onboarding.tips.debug.path": "C:/Users/Shoko/git/intensive/src/main/java/ru/elektr0ni3561/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.elektr0ni3561.task1.Main1" />
       <module name="intensive.main" />
@@ -77,6 +85,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.elektr0ni3561.task2.Main2" />
+      <module name="intensive.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.elektr0ni3561.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main1" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main1" />
@@ -99,7 +124,27 @@
       <option name="presentableId" value="Default" />
       <updated>1715877498619</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task 1">
+      <option name="closed" value="true" />
+      <created>1715974653345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715974653345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1" />
