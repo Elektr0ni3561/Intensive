@@ -6,8 +6,8 @@ public class Main1 {
 
     public static void main(String[] args) {
 
-        Sedan sedan = new Sedan(4,4.4f, FuelType.GASOLINE100);
-        Truck truck = new Truck(2,4.7f, 80000);
+        Sedan sedan = new Sedan(4, 4.4f, FuelType.GASOLINE100);
+        Truck truck = new Truck(2, 4.7f, 80000);
 
         System.out.println("------------------------------");
 

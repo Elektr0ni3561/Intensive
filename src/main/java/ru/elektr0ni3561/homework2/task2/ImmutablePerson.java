@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-final public class ImmutablePerson {
+public final class ImmutablePerson {
 
-    final private String name;
-    final private int age;
-    final private List<String> hobbies;
+    private final String name;
+    private final int age;
+    private final List<String> hobbies;
 
     public ImmutablePerson(String name, int age, final List<String> hobbies) {
         this.name = name;

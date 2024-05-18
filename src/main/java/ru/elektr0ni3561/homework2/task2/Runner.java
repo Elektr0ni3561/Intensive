@@ -8,10 +8,9 @@ public class Runner /*extends ImmutablePerson Нельзя унаследова�
 
     public static void main(String[] args) {
 
-        System.out.println("------------------------------");
-
         ImmutablePerson immutablePerson = new ImmutablePerson("Petya", 15, new ArrayList<>(List.of("Reading", "Dancing")));
 
+        System.out.println("------------------------------");
         System.out.println("immutable Person name: " + immutablePerson.getName());
         System.out.println("immutable Person age: " + immutablePerson.getAge());
         System.out.println("immutable Person hobbies: " + immutablePerson.getHobbies());

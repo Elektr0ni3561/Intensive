@@ -6,7 +6,7 @@ public class C {
         pi = 3.1415f;
     }
 
-    static public float pi;
+    public static float pi;
 
     int var = 0;
 

@@ -12,8 +12,7 @@ public class B extends A {
         value = 42;
     }
 
-
-    final static public long CONST;
+    public static final long CONST;
 
     private int value;
 

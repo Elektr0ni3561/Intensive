@@ -7,7 +7,7 @@ public class A {
         ID = 5;
     }
 
-    final private int ID;
+    private final int ID;
 
     private String title = "";
 

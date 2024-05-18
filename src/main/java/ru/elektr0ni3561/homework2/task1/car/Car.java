@@ -8,7 +8,7 @@ public abstract class Car implements Vehicle {
     protected float trunkCapacity;
     protected FuelType fuelType;
 
-    abstract public int getNumberOfDoors();
+    public abstract int getNumberOfDoors();
 
-    abstract public float getTrunkCapacity();
+    public abstract float getTrunkCapacity();
 }
