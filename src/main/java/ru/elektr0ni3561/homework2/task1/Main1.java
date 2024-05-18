@@ -5,6 +5,7 @@ import ru.elektr0ni3561.homework2.task1.car.FuelType;
 public class Main1 {
 
     public static void main(String[] args) {
+
         Sedan sedan = new Sedan(4,4.4f, FuelType.GASOLINE100);
         Truck truck = new Truck(2,4.7f, 80000);
 
