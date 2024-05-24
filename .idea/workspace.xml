@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 2 task 3">
+    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 3 Task 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework1/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework1/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework1/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework1/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework1/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task1/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task1/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task1/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task1/car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task1/car/FuelType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task1/car/FuelType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task2/ImmutablePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task2/ImmutablePerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework2/task2/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +58,7 @@
     "Gradle.intensive [:Main1.main()].executor": "Run",
     "Gradle.intensive [:Main2.main()].executor": "Run",
     "Gradle.intensive [:Main3.main()].executor": "Run",
+    "Gradle.intensive [:Main4.main()].executor": "Run",
     "Gradle.intensive [:Runner.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -123,7 +116,47 @@
       <option name="project" value="LOCAL" />
       <updated>1716047429608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Modifiers refactoring">
+      <option name="closed" value="true" />
+      <created>1716048885209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048885209</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework 3 Task 1">
+      <option name="closed" value="true" />
+      <created>1716577560191</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716577560231</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework 3 Task 2">
+      <option name="closed" value="true" />
+      <created>1716577588595</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716577588595</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homework 3 Task 3">
+      <option name="closed" value="true" />
+      <created>1716577605546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716577605546</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Homework 3 Task 4">
+      <option name="closed" value="true" />
+      <created>1716577616216</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716577616216</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +175,12 @@
     <MESSAGE value="Homework 2 task 1" />
     <MESSAGE value="Homework 2 task 2" />
     <MESSAGE value="Homework 2 task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 task 3" />
+    <MESSAGE value="Modifiers refactoring" />
+    <MESSAGE value="Homework 3 Task 1" />
+    <MESSAGE value="Homework 3 Task 2" />
+    <MESSAGE value="Homework 3 Task 3" />
+    <MESSAGE value="Homework 3 Task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 Task 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
