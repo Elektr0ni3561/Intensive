@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 3 Task 4">
+    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 4 task 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework4/task4/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework4/task4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework4/task4/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -52,22 +55,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.intensive [:Main.main()].executor": "Run",
-    "Gradle.intensive [:Main1.main()].executor": "Run",
-    "Gradle.intensive [:Main2.main()].executor": "Run",
-    "Gradle.intensive [:Main3.main()].executor": "Run",
-    "Gradle.intensive [:Main4.main()].executor": "Run",
-    "Gradle.intensive [:Runner.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Shoko/git/intensive/src/main/java/ru/elektr0ni3561/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.intensive [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Main1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Main2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Main3.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Main4.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Runner.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Shoko/git/intensive/src/main/java/ru/elektr0ni3561/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -156,7 +159,47 @@
       <option name="project" value="LOCAL" />
       <updated>1716577616216</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1716577883851</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716577883851</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Homework 3 task 1">
+      <option name="closed" value="true" />
+      <created>1716654855262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716654855262</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Homework 4 task 1">
+      <option name="closed" value="true" />
+      <created>1716655308172</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716655308172</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Homework 4 task 2">
+      <option name="closed" value="true" />
+      <created>1716655340121</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716655340121</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Homework 4 task 3">
+      <option name="closed" value="true" />
+      <created>1716656924999</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716656925000</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +223,12 @@
     <MESSAGE value="Homework 3 Task 2" />
     <MESSAGE value="Homework 3 Task 3" />
     <MESSAGE value="Homework 3 Task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 Task 4" />
+    <MESSAGE value="workspace.xml" />
+    <MESSAGE value="Homework 3 task 1" />
+    <MESSAGE value="Homework 4 task 1" />
+    <MESSAGE value="Homework 4 task 2" />
+    <MESSAGE value="Homework 4 task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 task 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
