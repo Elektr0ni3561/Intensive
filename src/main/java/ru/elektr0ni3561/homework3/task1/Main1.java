@@ -22,6 +22,7 @@ public class Main1 {
 
         for (int i = 1; i < N; i++) {
             arr[i] = in.nextLine();
+
             if (arr[i].length() >= max) {
                 max = arr[i].length();
                 indexMax = i;
