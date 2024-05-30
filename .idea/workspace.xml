@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 4 task 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework5/task1/Main1.java" afterDir="false" />
+    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 5 task 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework5/task2/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework5/task2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework5/task2/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework5/task1/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework5/task1/Main1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -205,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716656979211</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Homework 5 task 1">
+      <option name="closed" value="true" />
+      <created>1717067027077</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1717067027077</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +246,8 @@
     <MESSAGE value="Homework 4 task 2" />
     <MESSAGE value="Homework 4 task 3" />
     <MESSAGE value="Homework 4 task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 task 4" />
+    <MESSAGE value="Homework 5 task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 5 task 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
