@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 4 task 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework4/task4/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework4/task4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework4/task4/Subject.java" afterDir="false" />
+    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 4 task 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework5/task1/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -199,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716656925000</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Homework 4 task 4">
+      <option name="closed" value="true" />
+      <created>1716656979211</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716656979211</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,7 +234,8 @@
     <MESSAGE value="Homework 4 task 1" />
     <MESSAGE value="Homework 4 task 2" />
     <MESSAGE value="Homework 4 task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 task 3" />
+    <MESSAGE value="Homework 4 task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 task 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
