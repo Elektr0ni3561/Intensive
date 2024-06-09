@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 7 task 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework8/task1/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework8/task1/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework8/task1/Main1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +71,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Shoko/git/intensive/src/main/java/ru/elektr0ni3561/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "onboarding.tips.debug.path": "C:/Users/Shoko/git/intensive/src/main/java/ru/elektr0ni3561/Main.java"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -247,6 +246,26 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
