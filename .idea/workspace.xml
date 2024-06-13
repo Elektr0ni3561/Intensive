@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="Homework 7 task 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework8/task1/Main1.java" afterDir="false" />
+    <list default="true" id="cb8d0895-5c79-47de-90f9-b783a3a0408a" name="Changes" comment="master Good changes!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework9/task1/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework9/task1/math/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework9/task1/math/operation/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework9/task1/math/operation/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework9/task1/math/operation/SubtractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/elektr0ni3561/homework9/task1/math/operation/SumOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,23 +63,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.intensive [:Main.main()].executor": "Run",
-    "Gradle.intensive [:Main1.main()].executor": "Run",
-    "Gradle.intensive [:Main2.main()].executor": "Run",
-    "Gradle.intensive [:Main3.main()].executor": "Run",
-    "Gradle.intensive [:Main4.main()].executor": "Run",
-    "Gradle.intensive [:Runner.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "dev",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Shoko/git/intensive/src/main/java/ru/elektr0ni3561/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.intensive [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Main1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Main2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Main3.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Main4.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.intensive [:Runner.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Shoko/git/intensive/src/main/java/ru/elektr0ni3561/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
